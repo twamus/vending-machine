@@ -1,0 +1,1 @@
+{"time":1669514528311,"soda":5,"candybar":2,"chips":1,"total":6.94,"remaining":[95,98,99]}
