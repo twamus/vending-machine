@@ -1,3 +1,4 @@
+2 hour coding challenge for WSECU interview.
 
 Things I would have liked to improve:
 - Total price before placing an order
